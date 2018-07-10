@@ -10,4 +10,4 @@ end
 
 # puts fizzbuzz(3)
 # puts fizzbuzz(9)
-puts fizzbuzz(21)
+puts fizzbuzz(5)
