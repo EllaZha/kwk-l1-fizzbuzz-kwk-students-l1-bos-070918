@@ -9,5 +9,5 @@ end
 end
 
 puts fizzbuzz(3)
-puts fizzbuzz(9)
-
+puts fizzbuzz(10)
+puts fizzbuzz(30)
