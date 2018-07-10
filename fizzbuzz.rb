@@ -8,6 +8,4 @@ else int % 15 == 0
 end
 end
 
-puts fizzbuzz(3)
-puts fizzbuzz(10)
 puts fizzbuzz(30)
