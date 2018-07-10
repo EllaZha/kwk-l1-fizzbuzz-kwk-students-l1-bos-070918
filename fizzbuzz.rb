@@ -8,4 +8,4 @@ else int % 15 == 0
 end
 end
 
-puts fizzbuzz()
+puts fizzbuzz(15)
